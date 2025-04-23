@@ -23,7 +23,7 @@
 ---
 
 ### 🏆 **Major Projects**  
-- **🤖 AI Solutions at Solutecnia SAS**: Built **predictive models, NLP tools, and ontology-based systems**.  
+- **🤖 AI Solutions at Solutecia SAS**: Built **predictive models, NLP tools, and ontology-based systems**.  
 - **🏥 Telehealth Platforms**: Developed secure, AI-driven healthcare solutions.  
 - **🌍 Blockchain for Good**: Designed **DAOs, environmental tokens, and multilevel marketing systems**.  
 - **🔭 Astrophysics Data Tools**: Analyzed observatory data for research applications.  
